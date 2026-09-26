@@ -45,7 +45,16 @@ flowchart TD
     D1 --> D2
     D2 --> D3
 ```
+<p align="center">
+    <img src="assets/flip_desktop_light.png" alt="Rznish Search Dark Mode" width="100%" >
+    </p>
+<p align="center">
+  <img src="assets/mobile_dark.png" alt="Rznish Search Dark Mode" width="48%" height="50%">
+  <img src="assets/mobile_light.png" alt="Rznish Search Light Mode" width="48%" height="50%">
+</p>
 
-
+<p align="center">
+  <img src="assets/desktop_dark.png" alt="Rznish Search Dark Mode" width="70%" > 
+</p>
 
 
